@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CanteenRemainder</string>
+    <string name="login">LOGIN</string>
+    <string name="password">PASSWORD</string>
+    <string name="username">USERNAME</string>
+    <string name="already_have_an_account">Already Have an Account?</string>
+    <string name="todo">TODO</string>
+    <string name="btnsigin">Button</string>
+    <string name="btnlogin">LOGIN</string>
+</resources>
